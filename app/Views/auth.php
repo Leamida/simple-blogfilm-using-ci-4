@@ -19,7 +19,7 @@
                 <input type="password" class="form-control" name="password" required>
             </div>
 
-            <button type="submit" class="btn btn-danger">Continue</button>
+            <button type="submit" class="btn btn-danger" style="width: 100%;">Continue</button>
         </form>
     </div>
 </div>
